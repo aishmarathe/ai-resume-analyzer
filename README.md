@@ -33,5 +33,4 @@ AI-Resume-Analyzer/
 ├── analyzer.py
 ├── resume_parser.py
 ├── prompts.py
-├── requirements.txt
 └── README.md
